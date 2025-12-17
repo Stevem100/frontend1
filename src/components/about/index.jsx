@@ -7,7 +7,7 @@ import {
   BitcoinCyan,
   BitcoinPurple,
   BitcoinRed,
-} from "./../../app/assets/all-images";
+} from "./../../@/app/assets/img";
 
 const AboutCompanyHome = () => {
   // get about our company data
